@@ -1,9 +1,8 @@
-# RevisandoJSbasicoBackandAPIprismaMoo
 Tecnologias:
 
-1 parte backend com:
+1ª parte backend com:
 
-Node
-Prisma
-API
-Mongodb
+- Node
+- Prisma
+- API
+- Mongodb
